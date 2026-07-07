@@ -1,0 +1,2 @@
+document.getElementById("dark").onclick = () =>
+  document.body.classList.toggle("dark");
